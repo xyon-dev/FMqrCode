@@ -2,6 +2,9 @@ body, div, p, ul, li, aside {
   padding: 0;
   margin: 0;
 }
+h1{
+  font-size: 18px;
+}
 :root{
   --white: hsl(0, 0%, 100%);
   --Slate-300: hsl(212, 45%, 89%); /*light blue*/
